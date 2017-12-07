@@ -1,0 +1,8 @@
+{
+  "name": "avik-jain-iris-classification",
+  "version": "1.0.0",
+  "dependencies": {
+    "node-som": "^1.6.6",
+    "synaptic": "^1.0.2"
+  }
+}
